@@ -10,4 +10,4 @@ elif 18<=edad<65:
 elif 65<=edad<=100:
     print("Usted es de tercera edad")
 else:
-    print("Usted ingresó una edad errónea")
+    print("Usted ingresó erroneamente su edad")
